@@ -1,0 +1,8 @@
+name: airflow-tutorials
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+- selenium
+- airflow
+- requests
